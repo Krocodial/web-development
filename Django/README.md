@@ -4,7 +4,7 @@ create a new directory for the project
 run the command "django-admin startproject projectname"
 
 run the website with
-	"python3 manage.py runserver"
+	"python3 manage.py runserver (optional)ipaddress:port"
 
 create the catalog application  
 	"python3 manage.py startapp catalog"  
